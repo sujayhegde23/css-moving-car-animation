@@ -1,2 +1,2 @@
 ## Preview
-[! The ouput](./video/output.mp4)
+[!Output Video](./video/output.mp4)
