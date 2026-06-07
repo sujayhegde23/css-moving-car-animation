@@ -1,2 +1,2 @@
 ## Preview
-![Demo](./video/output.mp4)
+<video src="./output.mp4" controls width="700"></video>
