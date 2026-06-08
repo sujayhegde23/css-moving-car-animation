@@ -21,3 +21,4 @@
 
 ## Preview
 [▶ Watch the output](./video/output.mp4)
+- The video can't be viewed directly. Download the raw file.
