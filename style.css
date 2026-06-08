@@ -1,27 +1,26 @@
 body{
-    background-image: url("https://img.magnific.com/free-vector/scene-with-house-garden_1308-94512.jpg?semt=ais_hybrid&w=740&q=80");
+    background-image: url("./images/community-background.avif");
     background-repeat: no-repeat;
     background-size: cover;
 }
 div {
     width: 300px;
     height: 200px;
- 
     position:absolute;
     top:476px;
     left:40px;
     transform: scale(1.5);
     
 }
-.img2{
+
+.car-body{
     width:300px;
     transition: transform ;
     transition-duration:30s ;
     transition-timing-function: linear;
-   
 }
 
-.img3{
+.front-wheel{
     width: 42px;
     position: absolute;
     top:86px;
@@ -33,9 +32,7 @@ div {
 }
 
 
-
-
-.img1{
+.rear-wheel{
     width: 42px;
     position: absolute;
     top:88px;
@@ -48,7 +45,7 @@ div {
 
 
 
-div:hover .img2 {
+div:hover .car-body {
     transform: translateX(1000px);
 }
 
