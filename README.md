@@ -1,12 +1,12 @@
 # CSS Moving Car Animation
 - A simple moving car animation enumerated using transition and transform properties of css
 
-## features
+## Features
 - Vehicle moves when hovered
 - Wheel and car body move together to simulate motion
 - Built using only HTML and CSS
 
-## concepts
+## Concepts
 - CSS Transition 
 - CSS Transforms
 - Translate
