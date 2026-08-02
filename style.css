@@ -4,13 +4,10 @@ body{
     background-size: cover;
 }
 div {
-    width: 300px;
-    height: 200px;
     position:absolute;
     top:476px;
     left:40px;
     transform: scale(1.5);
-    
 }
 
 .car-body{
@@ -38,7 +35,7 @@ div {
     top:88px;
     left:61px;
     border-radius: 50%;
-    transition: hover , transform;
+    transition:  transform;
     transition-duration: 30s;
     transition-timing-function: linear;
 }
