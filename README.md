@@ -17,8 +17,8 @@
 - Applied translation to both the wheels  and the car body that made it seem like a moving vehicle .
 - Applied trial and error to perfectly position  the wheel image onto the car body . As a result there is a possibility it would break if tried running on a system with different screen size .
 - While running on your system trying adjusting `top` and `left` properties in `style.css` file to position the wheel properly .
-- Enjoyed working on this mini project a lot and I am glad that it worked .
+
 
 ## Preview
-[▶ Watch the output](./video/output.mp4)
-- The video can't be viewed directly. Download the raw file.
+
+[View Project](https://sujayhegde23.github.io/css-moving-car-animation/)
